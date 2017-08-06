@@ -1,0 +1,9 @@
+D:\Programy\C#\BMI\BMI\bin\Debug\BMI.exe.config
+D:\Programy\C#\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+D:\Programy\C#\BMI\BMI\obj\Debug\BMI.Form1.resources
+D:\Programy\C#\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+D:\Programy\C#\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
+D:\Programy\C#\BMI\BMI\bin\Debug\BMI.exe
+D:\Programy\C#\BMI\BMI\bin\Debug\BMI.pdb
+D:\Programy\C#\BMI\BMI\obj\Debug\BMI.exe
+D:\Programy\C#\BMI\BMI\obj\Debug\BMI.pdb
